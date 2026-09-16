@@ -1,16 +1,27 @@
-## Hi there 👋
+# Aksil IRBOUH
 
-<!--
-**Aksil-Irbouh/Aksil-Irbouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · Generative AI · Multimodal AI**
 
-Here are some ideas to get you started:
+> *Building AI systems that perceive, reason and act.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing a **Specialized Master's in Multimodal & Autonomous AI at Télécom Paris**, after an Engineering degree in **Data & Artificial Intelligence at ESILV**.
+
+I'm interested in the intersection of:
+
+`Generative AI` · `Foundation Models` · `Multimodal AI` · `Computer Vision` · `Robotics` · `Autonomous Systems`
+
+My focus is on understanding AI models and turning them into **reliable systems that can perceive, reason and interact with the real world**.
+
+### Background
+
+🎓 **Télécom Paris** — Multimodal & Autonomous AI
+🎓 **ESILV** — Data & Artificial Intelligence
+🏭 **Renault** — Data Science & Machine Learning
+
+### Interests
+
+🇯🇵 Japanese culture · 🤖 Reinforcement Learning · 🤖 RL · 🧠 Strategy games
+
+---
+
+*Exploring the path from data → models → intelligent systems.*
