@@ -2,7 +2,7 @@
 
 **AI Engineer · Generative AI · Multimodal AI**
 
-> *Building AI systems that perceive, reason and act.*
+> *Change... is good.*
 
 Currently pursuing a **Specialized Master's in Multimodal & Autonomous AI at Télécom Paris**, after an Engineering degree in **Data & Artificial Intelligence at ESILV**.
 
