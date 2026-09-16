@@ -1,6 +1,6 @@
 # Aksil IRBOUH
 
-**AI Engineer · Generative AI · Multimodal AI**
+**AI Engineer**
 
 > *Change... is good.*
 
