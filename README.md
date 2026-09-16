@@ -8,19 +8,20 @@ Currently pursuing a **Specialized Master's in Multimodal & Autonomous AI at Té
 
 I'm interested in the intersection of:
 
-`Generative AI` · `Foundation Models` · `Multimodal AI` · `Computer Vision` · `Robotics` · `Autonomous Systems`
+`Generative AI` · `Foundation Models` · `Multimodal AI` · `Reinforcement Learning` · `Computer Vision` · `Autonomous Systems`
 
-My focus is on understanding AI models and turning them into **reliable systems that can perceive, reason and interact with the real world**.
+I enjoy understanding how AI models work, experimenting with them, and ultimately turning them into **reliable systems that can interact with the real world**.
 
-### Background
 
-🎓 **Télécom Paris** — Multimodal & Autonomous AI
-🎓 **ESILV** — Data & Artificial Intelligence
-🏭 **Renault** — Data Science & Machine Learning
+### Currently building
+
+🚆 **Railnsight** — WIP
+🗣️ **NLP** — WIP
+
 
 ### Interests
 
-🇯🇵 Japanese culture · 🤖 Reinforcement Learning · 🤖 RL · 🧠 Strategy games
+🇯🇵 Animation · 🤖 Reinforcement Learning · 🕵️ Visual novel
 
 ---
 
