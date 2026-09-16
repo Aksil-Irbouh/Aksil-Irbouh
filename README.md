@@ -15,8 +15,8 @@ I enjoy understanding how AI models work, experimenting with them, and ultimatel
 
 ### Currently building
 
-🚆 **Railnsight** — WIP
-🗣️ **NLP** — WIP
+🚆 **Railnsight** --> WIP |
+🗣️ **NLP** --> WIP
 
 
 ### Interests
